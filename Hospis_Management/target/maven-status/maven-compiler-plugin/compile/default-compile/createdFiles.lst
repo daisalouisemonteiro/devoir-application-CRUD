@@ -1,0 +1,10 @@
+Controleur\Patient_Actions.class
+View\Patient_View$3.class
+com\mycompany\hospis_management\Hospis_Management.class
+View\Patient_View.class
+Controleur\Dossier_Actions.class
+View\Patient_View$2.class
+Dao\Connexion_Base.class
+Model\Patient.class
+Model\Dossier.class
+View\Patient_View$1.class
